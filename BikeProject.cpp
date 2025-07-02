@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class Bike_price                             // 1st class
+class Bike_price                            // 1st class
 {
 	private : 
 	int price;
